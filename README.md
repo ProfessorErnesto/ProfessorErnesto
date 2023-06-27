@@ -10,4 +10,3 @@ Meu nome é Ernesto - estou estudando [Alura](https://www.alura.com.br)
 silva.junior.ernesto@escola.pr.gov.br
 
 ![Alura](https://media.tenor.com/jDPIXka-T_wAAAAM/naruto-to-certo.gif)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/)
